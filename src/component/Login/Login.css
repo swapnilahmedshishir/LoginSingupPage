@@ -1,0 +1,84 @@
+.card_style {
+  width: 450px;
+  height: 677px;
+  display: block;
+  margin: 0 auto;
+  /* border-radius: 10px; */
+  background-color: #ffffff;
+  box-shadow: 2px 4px 35px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 25px;
+  position: relative;
+}
+.crsBtn {
+  position: absolute;
+  right: 50px;
+  top: 30px;
+  border: 2px solid #ea7317;
+  border-radius: 50%;
+  padding: 0px;
+}
+.crossIcon {
+  height: 30px;
+}
+
+.login_field {
+  padding-top: 70px;
+  text-align: center;
+}
+.login {
+  font-style: normal;
+  font-weight: 700;
+}
+.input_field {
+  border: 1px solid #0a0a0a;
+  border-radius: 25px;
+  padding: 7px;
+  width: 325px;
+  font-size: 17px;
+}
+
+.login_btn {
+  background: #3a4d81;
+  color: white;
+  font-size: 17px;
+  font-weight: 400;
+  border-radius: 25px;
+  padding: 10px 30px;
+  text-align: center;
+  margin: 20px 0px;
+}
+.login_btn:hover {
+  background: #3a4d81;
+  color: white;
+}
+.hr-line {
+  border-top: 2px solid #0a0a0a;
+  margin: 12px;
+  width: 35px;
+}
+.or_part {
+  font-weight: 500;
+  font-size: 17px;
+}
+.socail_icon {
+  height: 45px;
+  margin: 0px 20px;
+}
+.checkBox {
+  padding: 30px;
+}
+
+.sing_up {
+  color: #ea7317;
+}
+.sing_up:hover {
+  color: #ea7317;
+}
+
+.hr_line2 {
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
